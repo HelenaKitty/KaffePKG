@@ -1,7 +1,7 @@
 name = kaffeos
 	type = raw
 		url = https://raw.githubusercontent.com/HelenaKitty/KaffePKG/master/kaffeos
-		filename = packman
+		filename = startup
 	category = utility
 	dependencies = none
 	version = 0.1
